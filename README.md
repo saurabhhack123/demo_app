@@ -1,0 +1,1 @@
+This demo app is made during learning book called railsinstaller.
